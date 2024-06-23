@@ -1,0 +1,1 @@
+Help to automate the insurance underwriter work using chatgpt , its functionality is to accept or reject the insurance request of a person using chatgpt to fetch all its financial details uploaded by person within few seconds , as underwriter will take so much time to go through all financial docs , so chatgpt will help in providing the summarization of that profile in python.
